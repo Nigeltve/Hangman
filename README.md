@@ -1,4 +1,4 @@
-#Hang man
+# Hang man
 
 This was a mini project, where you had to create the game hangman. 
 
